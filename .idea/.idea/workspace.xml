@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a74e656-53b4-4905-891a-40ec65a904d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aIDyDbygD9YjRJfDnmVHWzmpL4" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DarKMONEY\Desktop\JAVA\Pro\дипломная\tutorial-java-web-application-with-spring-v1.0.0\target" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductsControllerIntegrationTest1">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="name.alexkosarev.tutorials.JavaWebAppWithSpringApplication" />
+      <module name="myShop-java-web-app-with-spring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsControllerIntegrationTest1" type="JUnit" factoryName="JUnit">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="name.alexkosarev.tutorials.catalog.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="name.alexkosarev.tutorials.catalog.web" />
+      <option name="MAIN_CLASS_NAME" value="name.alexkosarev.tutorials.catalog.web.ProductsControllerIntegrationTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="WORKING_DIRECTORY" value="C:\Users\DarKMONEY\Desktop\tutorial-java-web-application-with-spring-v1.0.0" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tutorial-java-web-app-with-spring []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="myShop-java-web-app-with-spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="name.alexkosarev.tutorials.JavaWebAppWithSpringApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tom" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.213" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8888/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_tutorial-java-web-app-with-spring" />
+        <option name="HTTP_PORT" value="8888" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50523" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="Maven.tutorial-java-web-app-with-spring []" />
+      <item itemvalue="Spring Boot.Unnamed" />
+      <item itemvalue="Tomcat Server.Tom" />
+      <item itemvalue="JUnit.ProductsControllerIntegrationTest1" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a74e656-53b4-4905-891a-40ec65a904d5" name="Default Changelist" comment="" />
+      <created>1586414480545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586414480545</updated>
+      <workItem from="1586414530888" duration="470000" />
+      <workItem from="1586415756917" duration="1845000" />
+      <workItem from="1586419315374" duration="107000" />
+      <workItem from="1586419551538" duration="304000" />
+      <workItem from="1586420100386" duration="100000" />
+      <workItem from="1586444642695" duration="277000" />
+      <workItem from="1586455615468" duration="321000" />
+      <workItem from="1586457308060" duration="673000" />
+      <workItem from="1586498555734" duration="8200000" />
+      <workItem from="1586514446894" duration="5595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="31" key="#Deployment" timestamp="1586416093561">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="31" key="#Deployment/0.0.1366.738@0.0.1366.738" timestamp="1586416093561" />
+    <state x="286" y="38" key="#ProductsControllerIntegrationTest" timestamp="1586518377525">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="286" y="38" key="#ProductsControllerIntegrationTest/0.0.1366.738@0.0.1366.738" timestamp="1586518377525" />
+    <state x="275" y="30" key="#Tomcat_Server" timestamp="1586417327142">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="30" key="#Tomcat_Server/0.0.1366.738@0.0.1366.738" timestamp="1586417327142" />
+    <state x="124" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586498621594">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="124" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1586498621594" />
+    <state x="488" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1586503959718">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1586503959718" />
+    <state x="399" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586419825398">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="399" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1586419825398" />
+    <state x="275" y="30" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1586417485967">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="30" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1366.738@0.0.1366.738" timestamp="1586417485967" />
+    <state x="418" y="248" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586416140238">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="418" y="248" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.738@0.0.1366.738" timestamp="1586416140238" />
+    <state x="389" y="113" key="FileChooserDialogImpl" timestamp="1586417622290">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="389" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1586417622290" />
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom" timestamp="1586455959234">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1586455959234" />
+    <state width="1323" height="174" key="GridCell.Tab.0.center" timestamp="1586455959234">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1586455959234" />
+    <state width="1323" height="174" key="GridCell.Tab.0.left" timestamp="1586455959233">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1586455959233" />
+    <state width="1323" height="174" key="GridCell.Tab.0.right" timestamp="1586455959234">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586455959234" />
+    <state x="390" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1586514443717">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586514443717" />
+    <state x="65" y="0" key="new project wizard" timestamp="1586500249017">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1586500249017" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586514874574">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1586514874574" />
+  </component>
+</project>
